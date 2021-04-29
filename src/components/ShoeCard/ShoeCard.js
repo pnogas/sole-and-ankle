@@ -55,10 +55,7 @@ const Link = styled.a`
   color: inherit;
 `;
 
-const Wrapper = styled.article`
-  width: 340px;
-  height: 312px;
-`;
+const Wrapper = styled.article``;
 
 const ImageWrapper = styled.div`
   position: relative;
