@@ -29,12 +29,13 @@ const Wrapper = styled.div`
   height: 40px;
   display: flex;
   align-items: center;
-  gap: 32px;
+  padding-left: 32px;
+  padding-right: 32px;
+  gap: 24px;
 `;
 
 const MarketingMessage = styled.span`
   color: ${COLORS.white};
-  margin-left: 32px;
   margin-right: auto;
 `;
 
